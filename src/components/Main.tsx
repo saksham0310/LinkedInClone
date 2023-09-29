@@ -53,8 +53,7 @@ export const Main = () => {
         author={{
           name: "Satya Nadella",
           subtext: "Chairman and CEO at Microsoft",
-          imageUrl:
-            "https://media.licdn.com/dms/image/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_100_100/0/1579726624860?e=1692835200&v=beta&t=m5EDtXZALcLc9SM6BNRsfbid9cEUxfN8B_LYhdwFwGo",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png",
           connectionDegree: "1st",
         }}
         stats={{
@@ -76,9 +75,8 @@ export const Main = () => {
         author={{
           name: "Satya Nadella",
           subtext: "Chairman and CEO at Microsoft",
-          imageUrl:
-            "https://media.licdn.com/dms/image/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_100_100/0/1579726624860?e=1692835200&v=beta&t=m5EDtXZALcLc9SM6BNRsfbid9cEUxfN8B_LYhdwFwGo",
-          connectionDegree: "1st",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png"
+          ,connectionDegree: "1st",
         }}
         stats={{
           likes: 5361,
@@ -93,8 +91,7 @@ export const Main = () => {
         author={{
           name: "Clara Shih",
           subtext: "CEO of Salesforce AI, Board Director & Entrepreneur",
-          imageUrl:
-            "https://media.licdn.com/dms/image/D5603AQGVuircu90KUw/profile-displayphoto-shrink_100_100/0/1677475762784?e=1692835200&v=beta&t=zTH1P27U-lV_I_2hT74hDcqk-fhgg7wHrhx8W8a5xio",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png",
           connectionDegree: "3rd",
         }}
         stats={{
@@ -116,8 +113,7 @@ export const Main = () => {
         author={{
           name: "Sundar Pichai",
           subtext: "CEO at Google",
-          imageUrl:
-            "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png",
           connectionDegree: "2nd",
         }}
         stats={{
@@ -138,8 +134,7 @@ export const Main = () => {
         author={{
           name: "Mark Zuckerberg",
           subtext: "CEO at Facebook",
-          imageUrl:
-            "https://www.californiamuseum.org/sites/main/files/imagecache/medium/main-images/screen_shot_2012-07-27_at_6.32.28_pm.png?1632975955",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png",
           connectionDegree: "3rd",
         }}
         stats={{
@@ -155,7 +150,7 @@ export const Main = () => {
         author={{
           name: "Elon Musk",
           subtext: "CEO of SpaceX and Tesla, Entrepreneur",
-          imageUrl: "https://ichef.bbci.co.uk/images/ic/640x360/p03c84wz.jpg",
+          imageUrl: "https://images.businessnewsdaily.com/app/uploads/2022/04/04081908/small-business-website.png,
           connectionDegree: "2nd",
         }}
         stats={{
