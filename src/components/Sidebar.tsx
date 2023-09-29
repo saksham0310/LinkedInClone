@@ -9,13 +9,13 @@ const MyProfileHeader = () => {
         className="bg-center bg-cover block h-14 w-full"
         style={{
           backgroundImage:
-            "url(https://media.licdn.com/dms/image/C5616AQFBJ6o2Z7TrsQ/profile-displaybackgroundimage-shrink_200_800/0/1516968055361?e=1692835200&v=beta&t=MEqhkc8BTKOniiPx0Hphp_pXKJ-0GH6OWaaKLurI8Qc)",
+            "url(https://static.vecteezy.com/system/resources/thumbnails/008/023/852/small/abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg)",
         }}
       ></div>
       <div className="flex justify-center">
         <img
           className="w-16 h-16 rounded-full overflow-hidden border-white border-2 mt-[-32px] z-1"
-          src="https://media.licdn.com/dms/image/D4E03AQGEu93ehaEucA/profile-displayphoto-shrink_100_100/0/1675407583125?e=1692835200&v=beta&t=qe1mCCS79H25N_h_VTUtEZ_XoslNvPv30y3QPv8rS8U"
+          src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/11/how-to-make-a-website-1.webp"
         />
       </div>
     </div>
